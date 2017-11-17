@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Portal</string>
+    <string name="tip">剪贴板内容</string>
+    <string name="tips">在微信上，复制淘宝信息，将直接打开淘宝链接</string>
+</resources>
