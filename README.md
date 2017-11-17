@@ -4,7 +4,15 @@ Portal 传送门可以在微信上直接打开淘宝链接，方便快捷，其�
 
 演示：
 
-![image](https://github.com/fuqinwu/NBADataBinding/blob/master/screenshot/databinding.gif)
+![image](https://github.com/AndroidPreView/Portal/blob/master/video/v1.png)
+
+
+![image](https://github.com/AndroidPreView/Portal/blob/master/video/v2.png)
+
+
+![image](https://github.com/AndroidPreView/Portal/blob/master/video/v3.png)
+
+
 
 
 
